@@ -261,11 +261,19 @@
         }
       }
     },  
-        
-        
-        
-        
-        
+    {
+      "name": "Slovenia",
+      "code": "SLO",
+      "continent": "Europe",
+      "assoc": {
+        "key": "slo",
+        "name": "Nogometna Zveza Slovenije",
+        "continental": {
+          "name": "Union of European Football Associations (UEFA)",
+          "code": "UEFA"
+        }
+      }
+    },
     {
       "name": "Spain",
       "code": "ESP",
@@ -289,58 +297,6 @@
         "continental": {
           "name": "Union of European Football Associations (UEFA)",
           "code": "UEFA"
-        }
-      }
-    },
-    {
-      "name": "Croatia",
-      "code": "CRO",
-      "continent": "Europe",
-      "assoc": {
-        "key": "cro",
-        "name": "Hrvatski Nogometni Savez",
-        "continental": {
-          "name": "Union of European Football Associations (UEFA)",
-          "code": "UEFA"
-        }
-      }
-    },
-    {
-      "name": "Russia",
-      "code": "RUS",
-      "continent": "Europe",
-      "assoc": {
-        "key": "rus",
-        "name": "Russian Football Union",
-        "continental": {
-          "name": "Union of European Football Associations (UEFA)",
-          "code": "UEFA"
-        }
-      }
-    },
-    {
-      "name": "Bosnia-Herzegovina",
-      "code": "BIH",
-      "continent": "Europe",
-      "assoc": {
-        "key": "bih",
-        "name": "Nogometni/Fudbalski Savez Bosne i Hercegovine",
-        "continental": {
-          "name": "Union of European Football Associations (UEFA)",
-          "code": "UEFA"
-        }
-      }
-    },
-    {
-      "name": "Iran",
-      "code": "IRN",
-      "continent": "Middle East",
-      "assoc": {
-        "key": "irn",
-        "name": "Football Federation Islamic Republic of Iran",
-        "continental": {
-          "name": "Asian Football Confederation (AFC)",
-          "code": "AFC"
         }
       }
     },
@@ -377,6 +333,19 @@
       "assoc": {
         "key": "aus",
         "name": "Football Federation Australia",
+        "continental": {
+          "name": "Asian Football Confederation (AFC)",
+          "code": "AFC"
+        }
+      }
+    },
+    {
+      "name": "New Zealand",
+      "code": "NZL",
+      "continent": "Pacific",
+      "assoc": {
+        "key": "nzl",
+        "name": "New Zealand Football",
         "continental": {
           "name": "Asian Football Confederation (AFC)",
           "code": "AFC"
@@ -423,38 +392,25 @@
       }
     },
     {
+      "name": "Paraguay",
+      "code": "PAR",
+      "continent": "South America",
+      "assoc": {
+        "key": "par",
+        "name": "Asociación Paraguaya de Fútbol",
+        "continental": {
+          "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
+          "code": "CONMEBOL"
+        }
+      }
+    },
+    {
       "name": "Uruguay",
       "code": "URU",
       "continent": "South America",
       "assoc": {
         "key": "uru",
         "name": "Asociación Uruguaya de Fútbol",
-        "continental": {
-          "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
-          "code": "CONMEBOL"
-        }
-      }
-    },
-    {
-      "name": "Colombia",
-      "code": "COL",
-      "continent": "South America",
-      "assoc": {
-        "key": "col",
-        "name": "Federación Colombiana de Fútbol",
-        "continental": {
-          "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
-          "code": "CONMEBOL"
-        }
-      }
-    },
-    {
-      "name": "Ecuador",
-      "code": "ECU",
-      "continent": "South America",
-      "assoc": {
-        "key": "ecu",
-        "name": "Federación Ecuatoriana de Fútbol",
         "continental": {
           "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
           "code": "CONMEBOL"
