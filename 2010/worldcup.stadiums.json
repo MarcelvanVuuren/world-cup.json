@@ -1,0 +1,75 @@
+{
+  "name": "World Cup 2010",
+  "stadiums": [
+    {
+      "key": "soccercity",
+      "name": "First National Bank Stadium",
+      "capacity": 84490,
+      "city": "Johannesburg",
+      "timezone": "UTC+2"
+    },
+    {
+      "key": "ellispark",
+      "name": "Ellis Park Stadium",
+      "capacity": 55686,
+      "city": "Johannesburg",
+      "timezone": "UTC+2"
+    },
+    {
+      "key": "greenpoint",
+      "name": "Cape Town Stadium",
+      "capacity": 64100,
+      "city": "Cape Town",
+      "timezone": "UTC+2"
+    },
+    {
+      "key": "durban",
+      "name": "Moses Mabhida Stadium",
+      "capacity": 62760,
+      "city": "Durban",
+      "timezone": "UTC+2"
+    },
+    {
+      "key": "loftusversfeld",
+      "name": "Loftus Versfeld Stadium",
+      "capacity": 42858,
+      "city": "Pretoria",
+      "timezone": "UTC+2"
+    },
+    {
+      "key": "nelsonmandelabay",
+      "name": "Nelson Mandela Bay Stadium",
+      "capacity": 42486,
+      "city": "Port Elizabeth",
+      "timezone": "UTC+2"
+    },
+    {
+      "key": "petermokaba",
+      "name": "Peter Mokaba Stadium",
+      "capacity": 41733,
+      "city": "Polokwane",
+      "timezone": "UTC+2"
+    },
+    {
+      "key": "mbombela",
+      "name": "Mbombela Stadium",
+      "capacity": 40929,
+      "city": "Nelspruit",
+      "timezone": "UTC+2"
+    },
+    {
+      "key": "freestate",
+      "name": "Free State Stadium",
+      "capacity": 40911,
+      "city": "Bloemfontein",
+      "timezone": "UTC+2"
+    },
+    {
+      "key": "royalbafokeng",
+      "name": "Royal Bafokeng Stadium",
+      "capacity": 38646,
+      "city": "Rustenburg",
+      "timezone": "UTC+2"
+    }
+  ]
+}
